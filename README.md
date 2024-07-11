@@ -3,3 +3,6 @@
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://neuro-jena.github.io/)
 
 [![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianGaser&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGaser&langs_count=10&theme=tokyonight&layout=compact" alt="Rémi :: Top Langs" /></p>
