@@ -5,4 +5,4 @@
 [![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianGaser&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGaser&langs_count=10&theme=tokyonight&layout=compact&size_weight=1&count_weight=0" alt="Rémi :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGaser&langs_count=10&theme=tokyonight&layout=compact&hide=Mathematica,M4,Roff,CSS" alt="Rémi :: Top Langs" /></p>
