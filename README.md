@@ -2,7 +2,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=wHcxxX0AAAAJ&hl=en)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://neuro-jena.github.io/)
 
-[![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianGaser&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Christians's GitHub stats](https://github-readme-stats-steel-omega.vercel.app/api?username=ChristianGaser&rank_icon=percentile&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGaser&langs_count=10&theme=tokyonight&layout=compact&hide=Mathematica,M4,Roff,CSS" alt="Rémi :: Top Langs" /></p>
+[![Christians's Top Langs](https://github-readme-stats-chi-ten-66.vercel.app/api/top-langs/?username=ChristianGaser&layout=compact&theme=dark&count_private=true&hide=Mathematica,M4,Roff,CSS)](https://github.com/anuraghazra/github-readme-stats)
